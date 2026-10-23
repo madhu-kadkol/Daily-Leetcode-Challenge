@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
