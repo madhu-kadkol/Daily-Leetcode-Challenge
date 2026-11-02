@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
