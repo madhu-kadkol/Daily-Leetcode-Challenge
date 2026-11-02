@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
