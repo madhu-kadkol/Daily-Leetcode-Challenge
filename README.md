@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2409-count-days-spent-together](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
