@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
