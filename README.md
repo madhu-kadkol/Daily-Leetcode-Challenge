@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
