@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
+| [3360-stone-removal-game](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
