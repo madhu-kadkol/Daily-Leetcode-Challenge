@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu-kadkol/Daily-Leetcode-Challenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
